@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1
+    "img": "https://placehold.it/200x150"
+    "price": 1000
+    "quantity": 0
+    "title": "Notebook"
+  },
+  {
+    "id": 2
+    "img": "https://placehold.it/200x150"
+    "price": 200
+    "quantity": 0
+    "title": "Display"
+  },
+  {
+    "id": 3
+    "img": "https://placehold.it/200x150"
+    "price": 20
+    "quantity": 0
+    "title": "Keyboard"
+  },
+  {
+    "id": 4
+    "img": "https://placehold.it/200x150"
+    "price": 10
+    "quantity": 0
+    "title": "Mouse"
+  },
+  {
+    "id": 5
+    "img": "https://placehold.it/200x150"
+    "price": 25
+    "quantity": 0
+    "title": "Phones"
+  },
+  {
+    "id": 6
+    "img": "https://placehold.it/200x150"
+    "price": 30
+    "quantity": 0
+    "title": "Router"
+  },
+  {
+    "id": 7
+    "img": "https://placehold.it/200x150"
+    "price": 18
+    "quantity": 0
+    "title": "USB-camera"
+  },
+  {
+    "id": 8
+    "img": "https://placehold.it/200x150"
+    "price": 24
+    "quantity": 0
+    "title": "Gamepad"
+  }
+]
